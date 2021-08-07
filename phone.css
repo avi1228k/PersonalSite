@@ -1,0 +1,32 @@
+/*home*/
+#home{
+    height: 820px;
+
+}
+.head{
+    font-size: 1.7rem;
+
+}
+/*about*/
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/*portfilo*/
+
+/*contact*/
+.input{
+    width: 80%;
+}
+
+#send{
+    width: 20%;
+}
+.gallery img {
+    width: 97px;
+    height: 90px;
+    margin: 10px;
