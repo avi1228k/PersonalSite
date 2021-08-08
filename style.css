@@ -205,13 +205,13 @@ margin:20px;
     transition: all .8s;
 
 }
-.box:hover{
+.box1:hover{
     background-position: left bottom;
     color: white;
     border:none;
     box-shadow: 0 0 20px rgb(255,45,45);
 }
-.box img{
+.box1 img{
     width: 80px;
     height: 80px;
     background-color:white;
